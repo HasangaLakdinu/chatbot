@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"mybotebf76f60": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
